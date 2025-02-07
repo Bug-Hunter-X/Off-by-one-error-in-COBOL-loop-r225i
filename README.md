@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL programming. The `bug.cob` file contains code that produces an incorrect count due to an improper loop initialization. The `bugSolution.cob` file provides the corrected version with explanation.
